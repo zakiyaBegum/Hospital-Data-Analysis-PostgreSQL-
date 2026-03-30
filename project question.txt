@@ -1,0 +1,28 @@
+Instruction:
+First, download the Hospital Data.csv file and import it into SQL. Then, solve the given
+queries to complete the 30-Day Micro Course and earn your certificate. Once all
+queries are solved, copy the results, paste them into a Word document, convert it to a
+PDF, and upload the PDF using the Google Form link provided in the video description.
+
+1. Total Number of Patients
+o Write an SQL query to find the total number of patients across all hospitals.
+2. Average Number of Doctors per Hospital
+o Retrieve the average count of doctors available in each hospital.
+3. Top 3 Departments with the Highest Number of Patients
+o Find the top 3 hospital departments that have the highest number of patients.
+4. Hospital with the Maximum Medical Expenses
+o Identify the hospital that recorded the highest medical expenses.
+5. Daily Average Medical Expenses
+o Calculate the average medical expenses per day for each hospital.
+6. Longest Hospital Stay
+o Find the patient with the longest stay by calculating the difference between
+Discharge Date and Admission Date.
+
+7. Total Patients Treated Per City
+o Count the total number of patients treated in each city.
+8. Average Length of Stay Per Department
+o Calculate the average number of days patients spend in each department.
+9. Identify the Department with the Lowest Number of Patients
+o Find the department with the least number of patients.
+10. Monthly Medical Expenses Report
+• Group the data by month and calculate the total medical expenses for each month.
